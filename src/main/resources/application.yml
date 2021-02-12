@@ -9,7 +9,3 @@ zuul:
   routes:
     customer:
       url: http://localhost:7744
-    accounts:
-      url: http://localhost:7779, http://localhost:7778
-    cards:
-      url: http://localhost:7711
